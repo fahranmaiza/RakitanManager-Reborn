@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 RakitanManager-Reborn
+# 🚀 RakitanManager-RebornX
 
 ### Modern USB Modem Management for OpenWrt
 
